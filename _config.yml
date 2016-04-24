@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: SysBook
-subtitle:
+title: Thinking
+subtitle: True wealth is a way of thinking
 description:
-author: Edison
-language:
+author: True wealth is a way of thinkin
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,8 +63,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
-
+#theme: landscape
+theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
